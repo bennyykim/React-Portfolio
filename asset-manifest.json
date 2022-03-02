@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.1877b543.css",
+    "main.js": "/React-Portfolio/static/js/main.ff0be405.js",
+    "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/charitylocator.jpg": "/React-Portfolio/static/media/charitylocator.87e76114912433972f38.jpg",
+    "static/media/workdayscheduler.jpg": "/React-Portfolio/static/media/workdayscheduler.faf2f1528c7e799265b6.jpg",
+    "static/media/teamprofilegen.jpg": "/React-Portfolio/static/media/teamprofilegen.480e38624d36311a9a7d.jpg",
+    "static/media/virtualpets.jpg": "/React-Portfolio/static/media/virtualpets.2159166da76b0db7c1a9.jpg",
+    "static/media/weatherdashboard.jpg": "/React-Portfolio/static/media/weatherdashboard.144c76e3139617471310.jpg",
+    "static/media/passwordgen.jpg": "/React-Portfolio/static/media/passwordgen.f4a6727cb0296736d7ca.jpg",
+    "static/media/text-editor.jpg": "/React-Portfolio/static/media/text-editor.9b7e8254f5ec049b6098.jpg",
+    "static/media/logo.svg": "/React-Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.1877b543.css.map": "/React-Portfolio/static/css/main.1877b543.css.map",
+    "main.ff0be405.js.map": "/React-Portfolio/static/js/main.ff0be405.js.map",
+    "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1877b543.css",
+    "static/js/main.ff0be405.js"
+  ]
+}
